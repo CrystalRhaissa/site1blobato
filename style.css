@@ -10,13 +10,15 @@ padding: 50px;
 
 .cabecalho{
 background-color: #6d6d6d;
-padding: 30px;
+padding: 10px;
 }
 
 .corpo{
 background-color: #5dc2b1;
+padding: 20px;
 }
 
 .fooder{
 background-color: #8a2be2;
+padding: 10px;
 }
