@@ -4,18 +4,19 @@
 }
 
 :root{
-background-color: rgb(255, 255, 255);
+background-color: #ffffff;
 padding: 50px;
 }
 
 .cabecalho{
-background-color: aqua;
+background-color: #000000;
+padding: 50px;
 }
 
 .corpo{
-background-color: rgb(22, 141, 101);
+background-color: #5dc2b1;
 }
 
 .fooder{
-background-color: blueviolet;
+background-color: #8a2be2;
 }
