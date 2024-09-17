@@ -22,3 +22,22 @@ padding: 20px;
 background-color: #8a2be2;
 padding: 10px;
 }
+
+.boton{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    border-color: #8a2be2;
+}
+
+.boton:hover{
+    background: linear-gradient(to right,#8a2be2,#25ccb0,);
+}
+
+.boton:active{
+    font-size: 15px;
+}
